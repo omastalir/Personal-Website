@@ -1,5 +1,5 @@
 baseURL: https://examplesite.com
-title: Meghna
+title: Owen Mastalir
 theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
@@ -10,11 +10,11 @@ params:
   cookies:
     enable: no
     expire_days: 2
-  description: Responsive Multipurpose Parallax Hugo Template
+  description: Owen Mastalir's Personal Website
   google_analytics_id: ''
   logo: images/logo.png
   map:
-    enable: no
+    enable: yes
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
@@ -40,7 +40,7 @@ params:
     preloader: images/logo.png
   social:
     - icon: ti-facebook
-      link: '#'
+      link: 'https://www.facebook.com/'
     - icon: ti-twitter-alt
       link: '#'
     - icon: ti-youtube
@@ -120,3 +120,8 @@ Languages:
           url: https://themefisher.com/
           weight: 8
     weight: 2
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

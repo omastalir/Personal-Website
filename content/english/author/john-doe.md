@@ -1,15 +1,12 @@
 ---
-email: email2@example.org
+email: omastalir@gmail.com
 image: ""
 social:
 - icon: ti-facebook
-  link: '#'
-- icon: ti-twitter-alt
-  link: '#'
+  link: 'https://www.facebook.com/profile.php?id=100006967668570'
 - icon: ti-github
-  link: '#'
-title: John Doe
+  link: 'https://github.com/omastalir'
+title: Social Links
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Owen's testing
