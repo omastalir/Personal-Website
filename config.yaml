@@ -1,4 +1,4 @@
-baseURL: http://examplesite.com
+baseURL: https://gracious-kare-5d0914.netlify.app/
 title: Owen Mastalir
 theme: meghna-hugo
 paginate: '6'
@@ -41,10 +41,6 @@ params:
   social:
     - icon: ti-facebook
       link: 'https://www.facebook.com/'
-    - icon: ti-twitter-alt
-      link: '#'
-    - icon: ti-youtube
-      link: '#'
     - icon: ti-linkedin
       link: '#'
     - icon: ti-dribbble
