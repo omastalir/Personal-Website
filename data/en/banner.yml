@@ -2,10 +2,10 @@
 banner:
   enable : true
   bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/Senior_pic.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Aspiring Data Analyst"
-  content : "Cal Poly graduate with an affinity for athletics, data science and movies!"
+  content : "Cal Poly graduate with an affinity for data science, athletics and movies!"
   
   button:
     enable : false
