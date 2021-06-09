@@ -12,7 +12,7 @@ params:
     expire_days: 2
   description: Owen Mastalir's Personal Website
   google_analytics_id: ''
-  logo: images/logo.png
+  logo: images/Picture1.png
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
@@ -51,31 +51,23 @@ Languages:
     languageName: En
     menu:
       main:
-        - name: about
-          url: '#about'
-          weight: 1
-        - name: services
-          url: '#services'
-          weight: 2
-        - name: portfolio
-          url: '#portfolio'
-          weight: 3
-        - name: team
+        - name: Work Experience
           url: '#team'
-          weight: 4
-        - name: pricing
-          url: '#pricing'
-          weight: 5
-        - name: blog
+          weight: 1
+        - name: News Articles
           url: '#blog'
-          weight: 6
-        - name: contact
+          weight: 2
+        - name: Contact Info
           url: '#contact'
-          weight: 7
-        - name: themefisher
+          weight: 3
+        - name: Personal Life
+          url: '#about'
+          weight: 3  
+        - name: Website theme
           url: https://themefisher.com/
-          weight: 8
+          weight: 5
     weight: 1
+  
   fr:
     contentDir: content/french
     copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)

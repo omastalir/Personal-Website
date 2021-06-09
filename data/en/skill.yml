@@ -1,26 +1,26 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  title : Skills
+  subtitle : 
+  content : 
+  image : 
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  R (this website for example)
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
+    - name :  SQL
       percent : 70%
       
     # skill item loop
-    - name :  Design
+    - name :  Time Series
       percent : 80%
       
-    - name :  IOS Development
+    - name :  Linear Regression
       percent : 95%
       
     # skill item loop
-    - name :  Android Development
+    - name :  Machine Learning
       percent : 75%
