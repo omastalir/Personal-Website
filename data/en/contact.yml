@@ -2,25 +2,25 @@
 contact:
   enable : true
   title : Contact Information
-  subtitle : 
-  content : Reach out to me here!
+  subtitle : Interested in contacting me? Send me a message!
+  content : 
 
   # Contact details
   contact_list:
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-mobile
       info : "Phone: 650-556-5665"
       
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-email 
       info : "Email: omastalir@gmail.com"
       
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "1600 Robin Whipple Way"
+    - icon : ti-location-pin 
+      info : "1600 Robin Whipple Way, Belmont, CA"
 
 
   # Contact form
   contact_form:
-    enable : false
-    form_action : "#" #contact form works with https://formspree.io
+    enable : true
+    form_action : 'https://formspree.io/f/mayajbqy' #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"

@@ -9,6 +9,6 @@ banner:
   content : "Cal Poly graduate with an affinity for data science, athletics and movies!"
   
   button:
-    enable : false
-    label : "Explore Us"
-    link : "#services"
+    enable : true
+    label : "Work Experience"
+    link : "#team"

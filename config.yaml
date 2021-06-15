@@ -45,7 +45,7 @@ Languages:
   en:
     contentDir: content/english
     copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
-      & Developed by [Gethugothemes](https://gethugothemes.com)
+      & Developed with [Gethugothemes](https://gethugothemes.com) 
     home: Home
     languageCode: en-us
     languageName: En
@@ -54,18 +54,15 @@ Languages:
         - name: Work Experience
           url: '#team'
           weight: 1
-        - name: News Articles
-          url: '#blog'
-          weight: 2
+        - name: Personal Life
+          url: '#about'
+          weight: 2  
         - name: Contact Info
           url: '#contact'
           weight: 3
-        - name: Personal Life
-          url: '#about'
-          weight: 3  
-        - name: Website theme
+        - name: Developed with Hugo
           url: https://themefisher.com/
-          weight: 5
+          weight: 4
     weight: 1
   
   fr:
