@@ -4,10 +4,10 @@ team:
   title : Work Experience
   team_member :
     # team member loop
-    - name : GH Sports
+    - name : GH Sports  - Business Analyst and Sales Associate  
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
-      designation : Business Analyst and Sales Associate 
+      designation :  
       content : Tracked sales data for reports and recommended action items for marketing 
                 and inventory strategies.  
                 Integrated Excel and CSV files from QuickBooks into weekly deliverables  
@@ -23,3 +23,59 @@ team:
           link : "https://www.linkedin.com/company/ghsports/about/"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "https://ghsports.com/"
+        
+    # team member loop
+    - name : Mustang News - Data Team Contributor
+      image_webp : images/team/team-2.webp
+      image : images/team/team-2.jpg
+      designation : 
+      content : Co-authored weekly COVID updates and Holt-Winters forecasting projections 
+                for electronic and print editions. 
+                Data scraping, cleaning, and visualizing results for local news stories.  
+
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/cpmustangnews"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/cpmustangnews/"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/company/cp-mustang-news/"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "https://mustangnews.net/"
+        
+    # team member loop
+    - name : StorCentric - Summer Intern
+      image_webp : images/team/team-3.webp
+      image : images/team/team-3.jpg
+      designation : 
+      content : Provided quality assurance and Blackbox functional and regression testing 
+                of Retrospect v17.5 backup software. 
+                Developed service support tool via Electron in JavaScript used by tech support today. 
+
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/StorCentric"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/storcentric"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/company/storcentric/"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "https://storcentric.com/"
+          
+    - name : Global Emancipation Network - Dashboard Lead
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.jpg
+      designation : 
+      content : Amazon’s AWS Cloud Practitioner Certification
+                Led a team that created an interactive human trafficking dashboard using R, SQL, and 
+                web development (React) 
+ 
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/globalemancipationnetwork"
+        - icon : ti-linkedin 
+          link : "https://www.linkedin.com/company/global-emancipation-network/"
+        - icon : ti-dribbble 
+          link : "https://www.globalemancipation.ngo/"
+
+          

@@ -1,9 +1,9 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "https://drive.google.com/file/d/1x1e4hubBBUj-ZGJMr4wqxoRzVg5Zhgzx/view?usp=sharing"
+  bg_image_webp : "https://lh3.googleusercontent.com/pw/ACtC-3cGDCWHwGRtHZ1lPTyvKzwa5O5VXMO-J6i4uEXkvMSsr8Pw5bmPv3RApCdQ4c7FTThsYzxqJ6enXo5TP4RqSHitQxFxLx84OHvX6UJch0SdGN7mg-EANMW8qFsJrbOovzJ9m0O9GcAJDIlf7Ikf8fPP=w1882-h1196-no?authuser=0"
   #bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/Senior_pic.jpg"
+  bg_image : "images/backgrounds/DV6.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Aspiring Data Analyst"
   content : "Cal Poly graduate with an affinity for data science, athletics and movies!"

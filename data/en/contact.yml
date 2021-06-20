@@ -2,7 +2,7 @@
 contact:
   enable : true
   title : Contact Information
-  subtitle : Interested in contacting me? Send me a message!
+  subtitle : Interested in contacting? Send a message!
   content : 
 
   # Contact details

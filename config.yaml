@@ -34,13 +34,12 @@ params:
     preloader: images/logo.png
   social:
     - icon: ti-facebook
-      link: 'https://www.facebook.com/'
+      link: 'https://www.facebook.com/profile.php?id=100006967668570'
     - icon: ti-linkedin
-      link: '#'
-    - icon: ti-dribbble
-      link: '#'
-    - icon: ti-pinterest
-      link: '#'
+      link: 'https://www.linkedin.com/in/owen-mastalir/'
+    - icon: ti-github
+      link: 'https://github.com/omastalir'
+      
 Languages:
   en:
     contentDir: content/english
@@ -64,41 +63,6 @@ Languages:
           url: https://themefisher.com/
           weight: 4
     weight: 1
-  
-  fr:
-    contentDir: content/french
-    copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
-      & Developed by [Gethugothemes](https://gethugothemes.com)
-    home: Accueil
-    languageCode: fr-fr
-    languageName: Fr
-    menu:
-      main:
-        - name: sur
-          url: '#about'
-          weight: 1
-        - name: un service
-          url: '#services'
-          weight: 2
-        - name: portefeuille
-          url: '#portfolio'
-          weight: 3
-        - name: équipe
-          url: '#team'
-          weight: 4
-        - name: tarification
-          url: '#pricing'
-          weight: 5
-        - name: blog
-          url: '#blog'
-          weight: 6
-        - name: contact
-          url: '#contact'
-          weight: 7
-        - name: themefisher
-          url: https://themefisher.com/
-          weight: 8
-    weight: 2
 
 markup:
   goldmark:

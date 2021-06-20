@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
-  enable : false
-  title : About Us
+  enable : True 
+  title : Personal Interests
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-cup
+    title : Avid Triathlete 
+    content : Holding various leadership positions on Cal Poly's Triathlon Team I have spent the last four years redefining my physical limits and making great friends in the process. 
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-cup 
     title : We're Professional
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-video-clapper 
+    title : Film Finatic 
+    content : Cofounded a classic film club in high school. While mosty my time is spent doing other activities I still love movies with friends and family. 
