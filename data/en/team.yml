@@ -5,12 +5,12 @@ team:
   team_member :
     # team member loop
     - name : GH Sports  - Business Analyst and Sales Associate  
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image_webp : "https://lh3.googleusercontent.com/_npJ9MLWgGBRXRRET5qpUgujjNFtd5XclUwKd7mEo0hu9__4Bl2N68eT2-wS9qbzNQ7-JR5JTRuQE_lHcDow6kGz8HcDKniJrAIra6CmuwYWWQSvISKyRFf25HyHxC2s1qRXy8E8ZmnqsFMCqoIZ2zzZAzfoWUY0ANmu2T088nj-J4OojNP7I0nJ8SwCWB1iBO7zID_6yQhCmHZfgVQMJLKKoCZ1tdOzJtTFBQKRWI951XZFEyvludWBw3nRZPzHaYvWVNy7ELa58o6lwNKcPEMgHAVnSC0QH2wuXbE_3L0lojp4XquwfbaS54pQDublKgEtBOcD4n2xJljQtnbitI14gccCEvkihd87OMEiFJjRSYWxtwDYlI3h23uzF8c17UHoapSrZjcLjLHBbINDAPmnmIlKp6EfR3HKFe_EKB0b9oc9w6oi8NNRim07Ycm88jUM2-Dq0PnyTymNs8fjYsOVDPWUnH9kWUJL24Egd6bDPf9FFZBH3VrNLJb1gxGod08OtIY1XWXRkAQJFIuuDxCdsAgucCNYla66TlDunxBmJSsiX7eFlmByvtsciONBhKsKVCp3ushrj82hBYslv9iH5AC1X5bnHnkQZJnOhBP1lAduYJ5QVcOcCZ8VHlRWj2AcyGB-7d01hS2UJGEETeWuF5dSGI3UNWV9bih79n-8Y0VAK9rWEmnpr0TLm7uZxu7gh4tJZcyMv7qWOfFogKzS=s225-no?authuser=0"
+      image : images/team/gh-2.jpg
       designation :  
       content : Tracked sales data for reports and recommended action items for marketing 
                 and inventory strategies.  
-                Integrated Excel and CSV files from QuickBooks into weekly deliverables  
+                Integrated Excel and CSV files from QuickBooks into weekly deliverables.   
 
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -26,8 +26,8 @@ team:
         
     # team member loop
     - name : Mustang News - Data Team Contributor
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
+      image_webp : "https://lh3.googleusercontent.com/9o-Gb7G8Cf5kPvvkAeH_vTv-xOI4KI3RmIxR3YXYwCgYzYfliupVpVl00KvPW_2xUBAzkWQvhba3WYsUgU9SHzResYK7-V-G2n-oFxf_ZowL97TrzYJrTyLt0pijtiWdj54fjRAf9UAIgZejP8xXo9wcFtCAXL_hp0OOb-IwkBC-qBE0IYbpVHy_VtRuMjfG-r4T5l7_TC6bOoFeP9KWuPUjtfA0SBS7pJbEzYJ0JpgLILR0YpFhRIrp433BHrHO_iEYOR5Oochl0kZ2b3qrDgtvu-Jkg6sNpBuxtpjtx5XWUkB-1FTsJPTQd4-0DKT4sLTe5pJw9gG8ZP4adCBs7Ns5C_E3leY7FB9MFAe0p4NFf21cBUac8ABoafd5bME3TDq8d8mzNoeWM7_gVn8tZBAZjqU_yg3NVewsDRJUWGEUuhB8T0b-tlFtLJq9MvB-DdG0MmI5nc7tFzo7UNAnr153IBiCHdptsL5-rSA0NrDwJdDuWj2O7dbOsq9Ns9FcETK-MeUO02-CKxCLFgwsDU2TGR6LbD4UCjzg5vAfQ-hi6JV4Pxv1qqQ6n7DKmDaRwW2ctvE7gPCV6RzhMYXUTlr_R5LqsoCbj-AomW9BrMzA85SD8FDVCZkNv5ReGzrc8FhGoYOOgCfs1heXP_HZEd1kye1yaNpOLKXhrzX1A4gNGLeDyDZIL25rYDQ6kk89T1p6FX5foft13UNIY22VNp2T=w1182-h1096-no?authuser=0"
+      image : images/team/MN.jpg
       designation : 
       content : Co-authored weekly COVID updates and Holt-Winters forecasting projections 
                 for electronic and print editions. 
@@ -45,8 +45,8 @@ team:
         
     # team member loop
     - name : StorCentric - Summer Intern
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
+      image_webp : "https://lh3.googleusercontent.com/JiMWOW6-r7LKjKwSNteB3GCRqcbJ4YtYpkYyVdJodtPlfOBDcFPdWM4rasvkANlX6g6qcQNoX0u9GYV-gPe5dYg2lUrCAeAVYSzcBwfbAGO2j5cH2eisSnPmpOiATW8IiTqsmSQPBjRNz0pbqOEQQ91GW8B9_Bp3N0YGjNJ0LXWvgJwnHfGBlCvXce5NMLvq_p-sjbw6_YRIptxhBvr2WVXAGZOTlV8kpkJn7zRg5i3fUvzllyYLNff1A8YtDB3YdhF3kwckVq3owPCz79N8Ggh3e_zZVIoLmGqGgQ1B9wDdHFDx0nIsCk7fbRuRnitrr0HMjLCHAunzFaoTwv7xQlDr9iY4leybM7jerKwuAfv8FLP963lE40NZrO-gi9JQjfwbCXLbZ57DdIKJPQn1SMrb6s_b5vvnLPbyMN7LuQZlQga6wr9FiU88bqM42ExRZIZJqDStGUoqDgRY_MDAuyNe0DAJ5SEaCf4EkqhpNY9TjACCMD9hhh97giihYPgkheK3mUzxkOaCw7WKorsu0js9WD9eNqLM8dL0IPmgSc2MRROTjCiseNVJcrYIoy7kr--AS5KJqF5K7fW7QRlOepSiMMXGcGjDwQ4tOzJ78P4yfyKhlPgpGgQ4S-3lSMDsJ_8scdm9uHKLLkozwbAzeYsbWUZuEe8tFdbJNIu53PxjqbH2RCPIGOUiWGZ6RQ5aVlScAoFknwBwKSXNQp1iG38g=s400-no?authuser=0"
+      image : images/team/storcentric.jpg
       designation : 
       content : Provided quality assurance and Blackbox functional and regression testing 
                 of Retrospect v17.5 backup software. 
@@ -63,12 +63,12 @@ team:
           link : "https://storcentric.com/"
           
     - name : Global Emancipation Network - Dashboard Lead
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image_webp : "https://lh3.googleusercontent.com/z8it0BMUQkcjlbWnLvLoTLdW5MItFBJvcPhdE3HE6OYN2BXLL5y5idL2548EFn0R2GQ3G8ezVvX-gs3xwPVy-dT0YiY_rH6M6fRhjGpDDF8LH3nqn6XvYGVPz1zWUswgsMhs6WUI7WC-Pe3HOnMk6Ym4lC2UYEGycpFz4uDXq66PYnWcz8eZJ88FpIZs5zAsCx7uy2U2XIK8nTjqx4bbF1U25IY3hu-FeYGnJsyZCmb7QUmmZKFH7fMIRIEvPFkG9QE-Z4z70QcDW3pLTAPUZ1qactx6UBqHnVBAtZu6sKi_K969lG8pVZrl-iFRsGOV9hk7fUZlxrnu4ukI0tVN6rqTlYJxHNIU2_IGjwP-lxgaPkD5TiN-6OWNobhgqJhjWqwhj6256eMD1OsCGULnVdGGV7HIGCEy1lzI89U2AHMKjW7UzNoRY8Ei8Nt3ADhhHtJxm93V0rybbIunylpxdHpLaberJ7RTyZ6kTEDaN4WOHYLWisB7RBH7gFSKC_9OsQv0J1Kk-UG7yp3R5uphOp9Qb53BDnZpmKj0mCZFxMtnMlpAXTvZOmtNL2coWHGKujoi5qwbFlDQtAOZgx9b8fM5s5o3zel5zUO7CzJrQBSY4B59yj9fLcOs5JOhgD324vzHxMISjPr_fexlgkkj32TqV3XoY-eMToLuHRgSzuBVtjpZFvekDRBbwdLj9bh-xL43Z3f85K6nHiYcQjG9d74Q=s396-no?authuser=0"
+      image : images/team/gen.jpg
       designation : 
-      content : Amazon’s AWS Cloud Practitioner Certification
+      content : Amazon’s AWS Cloud Practitioner Certification. 
                 Led a team that created an interactive human trafficking dashboard using R, SQL, and 
-                web development (React) 
+                web development (React). 
  
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
