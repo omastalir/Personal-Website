@@ -3,9 +3,9 @@ skill:
   enable : true
   title : Skills
   subtitle : 
-  content : R, Linear and Non-Linear Time Series, Computer Science (Python),  
-            Applied Linear Regression, Advanced Econometrics, Information Systems  
-  image : images/when-to-use-data-science-in-seo-5def8e5b1c22c.png
+  content : 
+  image : images/data-test2.png
+  
   skill_item : 
     # skill item loop
     - name :  R (this website for example)
@@ -25,3 +25,7 @@ skill:
     # skill item loop
     - name :  Machine Learning
       percent : 75%
+      
+    # skill item loop
+    - name :  Visualization
+      percent : 83%
