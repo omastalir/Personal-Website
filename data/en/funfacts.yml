@@ -6,20 +6,20 @@ funfacts:
   counter_item:
     # counter item loop
     - title : "GPA - Cum Laude Honors"
-      icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-book" 
       count : "3.52"
     
     # counter item loop
     - title : "Over 20 Article Contributions"
-      icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-write"
       count : "20"
     
     # counter item loop
     - title : "Safehouses Found"
-      icon : "ti-home" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-home" 
       count : "2547"
     
     # counter item loop
     - title : "Daily Cups of Coffee"
-      icon : "ti-paint-bucket" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-paint-bucket" 
       count : "3"

@@ -3,8 +3,9 @@ skill:
   enable : true
   title : Skills
   subtitle : 
-  content : 
-  image : 
+  content : R, Linear and Non-Linear Time Series, Computer Science (Python),  
+            Applied Linear Regression, Advanced Econometrics, Information Systems  
+  image : static/images/portfolio/Datascience.jpeg
   skill_item :
     # skill item loop
     - name :  R (this website for example)
