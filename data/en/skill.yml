@@ -5,7 +5,7 @@ skill:
   subtitle : 
   content : R, Linear and Non-Linear Time Series, Computer Science (Python),  
             Applied Linear Regression, Advanced Econometrics, Information Systems  
-  image : static/images/portfolio/Data-Science
+  image : images/when-to-use-data-science-in-seo-5def8e5b1c22c.png
   skill_item : 
     # skill item loop
     - name :  R (this website for example)
