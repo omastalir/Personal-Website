@@ -5,8 +5,8 @@ skill:
   subtitle : 
   content : R, Linear and Non-Linear Time Series, Computer Science (Python),  
             Applied Linear Regression, Advanced Econometrics, Information Systems  
-  image : static/images/portfolio/Datascience.jpeg
-  skill_item :
+  image : static/images/portfolio/Data-Science
+  skill_item : 
     # skill item loop
     - name :  R (this website for example)
       percent : 90%
